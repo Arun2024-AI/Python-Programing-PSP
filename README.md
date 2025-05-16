@@ -2,6 +2,17 @@
 
 This repository contains lecture materials for Python Programming course.
 
+## Repository Structure
+```
+.
+├── README.md
+└── lectures/
+    ├── lec1.pdf
+    ├── lec2.pdf
+    ├── lec3.pdf
+    └── ... (all lecture PDFs)
+```
+
 ## Contents
 
 - Lecture 1: Introduction to Python
@@ -29,4 +40,4 @@ This repository contains lecture materials for Python Programming course.
 - Lecture 23: Final Project
 
 ## Note
-All lecture materials are in PDF format. Due to GitHub's file size limitations, some PDFs might not be directly viewable in the browser. Please download them to view the content. 
+All lecture materials are in PDF format and are stored in the `lectures` directory. Due to GitHub's file size limitations, some PDFs might not be directly viewable in the browser. Please download them to view the content. 
